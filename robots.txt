@@ -1,0 +1,5 @@
+# robots.txt para www.siatecservicios.com.ar
+User-agent: *
+Allow: /
+
+Sitemap: https://www.siatecservicios.com.ar/sitemap.xml
